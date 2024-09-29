@@ -1,0 +1,106 @@
+[
+    {
+        "id": 1,
+        "name": "David Leeroy Akanni",
+        "details": "Academic Award: Best Social Studies Student",
+        "image": "assets/images/nationals/leroy.png",
+        "NoA": "7",
+        "message": "For a year, MICS was my home- an experience I wouldn’t trade for anything. It nurtured my athletic abilities, allowing me to thrive in sports, while enhancing academic growth. Lifelong memories, challenges overcome and profound self-discovery within these nurturing walls. 7The invaluable guidance and support will forever remain in my grateful heart."
+    },
+    {
+        "id": 2,
+        "name": "Martin Nii Armah",
+        "details": "Voluntary Service Award: Best Volunteer, Academic Award: Best Intergrated Science Student | Non-Academic Awards: Best long distance runner",
+        "image": "assets/images/nationals/martin.png",
+        "NoA": "5",
+        "message": "Walking through the empty MPH, memories of laughter and tears flood my mind - the school has shaped me in ways I'll always treasure. Throughout my two years at Morgan, I had an incredible experience. The supportive teachers and engaging classes made learning exciting and fun. I thrived in this welcoming community, creating lifelong friendships and unforgettable memories."
+    },
+    {
+        "id": 3,
+        "name": "Christopher Ronnie Johnson",
+        "details": "Non-Academic Awards: Best shortput arthlet, Best basket ball player",
+        "image": "assets/images/nationals/ronnie.png",
+        "NoA": "4",
+        "message": "Never in a million years did I think three years would fly by so quickly, but I am grateful to have been a part of this beautiful family. MICS has given me one of the most rewarding experiences of my life. Coming to MICS, never expected to be exposed to different cultures and meet many amazing people. MICS has taught me how to a responsible, creative and open-minded young man in the classroom, on the basketball court and in all aspects of my life."
+    },
+    {
+        "id": 4,
+        "name": "Alwyn Yooku Amoah",
+        "details": "",
+        "image": "assets/images/nationals/yooku.png",
+        "NoA": "6",
+        "message": "Over the past two years, Morgan International Community School has played an instrumental role in shaping me into the person I am today. The academic rigor and diverse cultural experiences provided by the school have broadened my perspective and equipped me with the necessary skills to thrive in a globalized society. I am grateful for the invaluable education and personal growth opportunities that Morgan International Community School has offered me."
+    },
+    {
+        "id": 5,
+        "name": "James D. Kanneh II",
+        "details": "",
+        "image": "assets/images/nationals/james.png",
+        "NoA": "5",
+        "message": "My journey can be summed up in one word: growth. MICS has opened doors for me in countless subtle and meaningful ways. As a new student, it felt like a leisurely stroll in a park. Without a doubt, this chapter in my life wouldn’t have been as enriching without my newfound family. I feel prepared to embrace the real world and venture into the future with confidence."
+    },
+    {
+        "id": 6,
+        "name": "Elizmas P.N Kanneh",
+        "details": "",
+        "image": "assets/images/nationals/elizmus.png",
+        "NoA": "4",
+        "message": "I loved my time at Morgan International Community School! The school was so much fun, and the teachers were super nice. I had an amazing experience and made great friends. I'm grateful for the memories and skills I gained. Thanks, Morgan International Community School, for an unforgettable journey!"
+    },
+    {
+        "id": 7,
+        "name": "Brian Adu Gyamfi",
+        "details": "Non-Academic Awards: Best Male football player",
+        "image": "assets/images/nationals/brian.png",
+        "NoA": "5",
+        "message": "The last 2 years of my life have been my best years since I graduated from kindergarten. The hospitable and competitive atmosphere in Morgan, in both academics and sports has shaped me to be the best version of myself. Filled with stress, emotions and a lot of fun, it has been a whirlwind of experiences I wouldn't like to forget anytime soon. If I could relieve this experience, I would, just for the fun that comes with it."
+    },
+    {
+        "id": 8,
+        "name": "Mawutorna Christabel Dzokoto",
+        "details": "",
+        "image": "assets/images/nationals/christa.png",
+        "NoA": "6",
+        "message": "My experience in MICS has been nothing short of amazing. I have learnt a lot and made a lot of friends. I will forever cherish the moment within MICS. To my amazing teachers, thank you for being amazing and great shapers."
+    },
+    {
+        "id": 9,
+        "name": "Gyasi Audrina Abena",
+        "details": "Valedictorian, Academic Award: Best Mathematics Student, Best English Student, MUN Award",
+        "image": "assets/images/nationals/audrina.png",
+        "NoA": "5",
+        "message": "My experience in Morgan has been challenging, yet I've forged lasting friendships and had remarkable experiences. The lessons I've gained have truly molded me into the person I am today. I am sincerely thankful to every individual at MICS for their impact on my journey. The gratitude I hold for the people and experiences there underscores the significance of my time at MICS, a period I wouldn't exchange for anything."
+    },
+    {
+        "id": 10,
+        "name": "EwuraAma Tieku Agyemang",
+        "details": "",
+        "image": "assets/images/nationals/ewurama.png",
+        "NoA": "5",
+        "message": "My stay at MICS has ensured a holistic development. Aside academics, I have learned discipline, punctuality and self- confidence from my teachers and it will help me a lot in my future. I hold dear all our cherished memories here in MICS. I am proud to say I am a product of this great community; MICS will always be a home."
+    },
+    {
+        "id": 11,
+        "name": "Doris Danquah",
+        "details": "",
+        "image": "assets/images/nationals/doris.png",
+        "NoA": "4",
+        "message": "Joining MICS at such a late time was characterized by mixed feelings. However, the experience in MICS has been all I dreamt of and even more. Thanks to the amazing faculty for their dedication and continuous support. MICS has made all the difference in my life."
+    },
+    {
+        "id": 12,
+        "name": "Augustine Geebah Kanneh",
+        "details": "",
+        "image": "assets/images/nationals/augustine.png",
+        "NoA": "5",
+        "message": "My experience in the school was good. I had the chance to meet people from different places and culture. Never thought I will complete this early. It was a blessing being there."
+    },
+    {
+        "id": 13,
+        "name": "Reuben Nii Kotei",
+        "details": "",
+        "image": "assets/images/nationals/reuben.png",
+        "NoA": "6",
+        "message": "As I stepped into Morgan International Community School for my final year, a whirlwind of emotions surged through me. The vibrant compound echoed with laughter, familiar faces filled with hope and dreams. I felt like an outsider yet welcomed by the warmth of new friendships forged in the crucible of shared experiences. Every class was a mix of nostalgia and anticipation, as we prepared to face the world outside these walls. My heart swelled with gratitude for the lessons learned and the memories created."
+    }
+]

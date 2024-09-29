@@ -1,0 +1,50 @@
+{
+  "name": "grad_proj",
+  "version": "1.0.0",
+  "description": "An App for displaying the MICS graduation list of students",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "package": "electron-builder"
+  },
+  "keywords": [],
+  "author": "Cephas Dakwa",
+  "license": "ISC",
+  "dependencies": {
+    "gsap": "^3.12.5",
+    "slick-carousel": "^1.8.1"
+  },
+  "devDependencies": {
+    "electron": "^30.0.8",
+    "electron-builder": "^24.13.3",
+    "electron-packager": "^17.1.2"
+  },
+  "build": {
+    "appId": "com.curift.micsgradexp",
+    "productName": "MicsGradExp",
+    "directories": {
+      "output": "dist"
+    },
+    "win": {
+      "target": "nsis"
+    }
+  },
+  "files": [
+    "home.js",
+    "main.js",
+    "renderer.js",
+    "preload.js",
+    "home.html",
+    "index.html",
+    "style.css",
+    "student-data.json",
+    "assets/**/*"
+  ],
+  "win": {
+    "icon": "assets/icons/micslogo.ico"
+  },
+  "mac": {
+    "icon": "assets/icons/micslogo2.icns"
+  }
+}
