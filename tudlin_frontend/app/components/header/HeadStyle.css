@@ -1,0 +1,71 @@
+/* Header.css */
+
+.app-header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 15px;
+  background-color: #fff;
+  /* background-color: #e4effd; */
+  /* border-bottom: 1px solid #dedede; */
+  color: #282c34;
+  height: 45px;
+  -webkit-app-region: drag;
+}
+
+.app-header .logo {
+  display: flex;
+  align-items: center;
+}
+.app-header .logo img {
+  height: 30px !important;
+}
+
+.app-header .logo .l-txt {
+  /* height: 30px; */
+  margin-left: 8px;
+}
+
+.header-controls {
+  display: flex;
+  align-items: center;
+  -webkit-app-region: no-drag;
+}
+
+.more {
+  font-size: 2rem;
+}
+
+.menu-button {
+  background: none;
+  border: none;
+  color: #282c34;
+  font-size: 24px;
+  margin-right: 20px;
+  cursor: pointer;
+}
+
+.user-profile {
+  margin-right: 20px;
+}
+
+.control-buttons {
+  display: flex;
+  align-items: center;
+  /* gap: 10px; */
+}
+
+.control-buttons button {
+  background: none;
+  border: none;
+  color: #282c34;
+  font-size: 16px;
+  padding: 0 15px;
+  cursor: pointer;
+  height: 45px;
+}
+
+.control-buttons button:hover {
+  background-color: #f6f6f6;
+}

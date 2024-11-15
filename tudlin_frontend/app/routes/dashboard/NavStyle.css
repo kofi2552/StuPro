@@ -1,0 +1,120 @@
+.app-navigation-bar {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* padding: 20px; */
+  background-color: #4f6af8;
+  border-bottom: 1px solid #dedede;
+  color: #282c34;
+  height: 60px;
+}
+
+.app-nav .schl-profile .schl-name {
+  margin-left: 12px;
+}
+
+.breadcrumb {
+  padding-left: 15px;
+}
+
+.logo img {
+  height: 30px;
+}
+
+.header-controls {
+  display: flex;
+  align-items: center;
+}
+
+.user-profile {
+  margin-right: 20px;
+}
+
+.control-buttons {
+  display: flex;
+  align-items: center;
+  height: 60px;
+}
+
+.app-navigation-bar .control-buttons button {
+  background: none;
+  border: none;
+  color: #ffffff;
+  font-size: 16px;
+  padding: 15px;
+  cursor: pointer;
+  height: 60px;
+}
+
+.app-navigation-bar .control-buttons button:hover {
+  background-color: #77b9fc6f;
+}
+
+.dropmenu .separator {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  height: 0px;
+  width: 100%;
+  border-top-width: 1px;
+  border-color: hsl(204 20% 88%);
+}
+
+.dropmenu .separator:where(.dark, .dark *) {
+  border-color: hsl(204 4% 28%);
+}
+
+.dropmenu .menu {
+  position: relative;
+  z-index: 50;
+  display: flex;
+  max-height: var(--popover-available-height);
+  min-width: 180px;
+  flex-direction: column;
+  overflow: auto;
+  overscroll-behavior: contain;
+  border-radius: 0.5rem;
+  border-width: 1px;
+  border-style: solid;
+  border-color: hsl(204 20% 88%);
+  background-color: white;
+  padding: 0.5rem;
+  color: black;
+  box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+  outline: none !important;
+}
+
+.dropmenu .menu:where(.dark, .dark *) {
+  border-color: hsl(204 4% 24%);
+  background-color: hsl(204 4% 16%);
+  color: white;
+  box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.25),
+    0 4px 6px -4px rgb(0 0 0 / 0.1);
+}
+
+.dropmenu .menu-item {
+  display: flex;
+  cursor: default;
+  scroll-margin: 0.5rem;
+  align-items: center;
+  gap: 0.5rem;
+  border-radius: 0.25rem;
+  padding: 0.5rem;
+  outline: none !important;
+}
+
+.dropmenu .menu-item[aria-disabled="true"] {
+  opacity: 0.25;
+}
+
+.dropmenu .menu-item[data-active-item] {
+  background-color: hsl(204 100% 40%);
+  color: white;
+}
+
+.dropmenu .menu-item:active,
+.dropmenu .menu-item[data-active] {
+  background-color: hsl(204 100% 32%);
+  padding-top: 9px;
+  padding-bottom: 7px;
+}
